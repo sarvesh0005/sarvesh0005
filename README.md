@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer | Production ML • MLOps • Forecasting • FinTech
 
-I build **production-ready machine learning systems** that go beyond notebooks — from data pipelines and feature engineering to model training, serving, APIs, containerization, and deployment.
+I build **production-ready machine learning systems** that go beyond notebooks from data pipelines and feature engineering to model training, serving, APIs, containerization, and deployment.
 
 My background in **Statistics + Operations Research** helps me approach ML from both a modeling and decision-making perspective.
 
