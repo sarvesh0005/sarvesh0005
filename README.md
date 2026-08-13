@@ -26,9 +26,7 @@ My background in **Statistics + Operations Research** helps me approach ML from 
 
 **ML Engineering:** FastAPI · Pydantic · Docker · Pytest · GitHub Actions
 
-**Data & MLOps:** Pandas · NumPy · PostgreSQL · Airflow · dbt
-
-**Optimization:** OR-Tools · Gurobi · Pyomo
+**Data & MLOps:** Pandas · NumPy · PostgreSQL
 
 **GenAI:** Transformers · RAG · LoRA · QLoRA · Vector Databases
 
